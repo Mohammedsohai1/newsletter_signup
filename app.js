@@ -53,7 +53,3 @@ app.listen(process.env.PORT||3000,(req,res)=>{
 
 
 
-//api key
-//8279274a0ff031e81fcfc18674f3adbd-us21
-//list id
-//9db427d6ee
